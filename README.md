@@ -3,9 +3,7 @@
 ## 📌 Sobre o projeto
 
 Este projeto consiste no desenvolvimento de um programa de **Caixa Eletrônico utilizando a linguagem C**, com o objetivo de simular uma operação básica de saque bancário.
-
 O sistema permite que o usuário informe o valor desejado para saque e realiza a verificação do saldo disponível. Em seguida, calcula automaticamente a quantidade de cédulas necessárias para compor o valor solicitado.
-
 O projeto foi desenvolvido com foco na prática dos conceitos fundamentais de programação, especialmente estruturas condicionais, estruturas de repetição, operadores aritméticos e manipulação de variáveis.
 
 ## ⚙️ Funcionalidades
